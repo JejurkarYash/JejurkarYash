@@ -15,7 +15,7 @@ jobs:
       contents: write
     steps:
       - name: Language breakdown
-        uses: lowlighter/[email protected]
+        uses: docker://ghcr.io/lowlighter/metrics:latest
         with:
           filename: languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -28,7 +28,7 @@ jobs:
           config_theme: dark
 
       - name: Profile stats
-        uses: lowlighter/[email protected]
+        uses: docker://ghcr.io/lowlighter/metrics:latest
         with:
           filename: stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
