@@ -3,9 +3,7 @@
 # Yash Jejurkar
 ### **Backend & Systems Engineer**
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wavy&color=0d1117&height=90&section=header&text=Building%20Low-Latency%20Distributed%20Systems&fontSize=16&fontColor=8b949e&animation=fadeIn" width="100%" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="160px" style="object-fit: cover; border-radius: 8px;" />
 
 </div>
 
@@ -29,9 +27,11 @@
 
 ### 🛠️ Core Engineering Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,postgres,redis,docker,linux,git,postman&theme=dark" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,postgres,redis,docker,linux,git,postman&theme=dark" />
+
+</div>
 
 * **Languages:** Go, TypeScript, JavaScript, SQL, Python[cite: 2]
 * **Systems & Backend:** Goroutines/Channels, WebSockets, SSE, Reverse Proxies, Rate Limiting, REST[cite: 2]
@@ -39,10 +39,14 @@
 
 ---
 
+### 📬 Connect
+
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-yashjejurkar.dev@gmail.com-0d1117?style=flat&logo=gmail&logoColor=white)](mailto:yashjejurkar.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash_Jejurkar-0d1117?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-jejurkar)[cite: 2]
-[![Twitter](https://img.shields.io/badge/X-Yash_Jejurkar-0d1117?style=flat&logo=x&logoColor=white)](https://x.com/Yash.Jejurkar)[cite: 2]
+<a href="mailto:yashjejurkar.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" height="40" alt="Gmail" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/yash-jejurkar"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" height="40" alt="LinkedIn" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/Yash.Jejurkar"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="40" height="40" alt="Twitter" /></a>
 
 </div>
