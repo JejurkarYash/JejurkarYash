@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="280px" style="object-fit: cover; border-radius: 12px;" />
-
 # Yash Jejurkar
 <span style="color: #8b949e; font-size: 1.1em; font-weight: 500;">Backend & Systems Engineer</span>
 
@@ -9,23 +7,23 @@
 
 ---
 
-### ⚡ Featured Systems
+###  Featured Systems
 
-* **[Setu](https://github.com/Jejurkar-Yash/Setu)** — High-throughput Go LLM proxy gateway[cite: 2].
-  > Sustained **5,170 req/s** at **2.88ms p95 latency** (1.55M+ requests, 0% failure) using goroutine worker pools and atomic Redis Lua scripts[cite: 2].
+* **[Setu](https://github.com/Jejurkar-Yash/Setu)** — High-throughput Go LLM proxy gateway.
+  > Sustained **5,170 req/s** at **2.88ms p95 latency** (1.55M+ requests, 0% failure) using goroutine worker pools and atomic Redis Lua scripts.
 
-* **[Throttlr](https://github.com/Jejurkar-Yash/Throttlr)** — Distributed rate-limiting SDK & infrastructure[cite: 2].
-  > Published `@throttlr/sdk` on npm[cite: 2]. Zero-dependency middleware enforcing Fixed & Sliding Window algorithms safely via Redis[cite: 2].
+* **[Throttlr](https://throttlr.yashjejurkar.me/)** — Distributed rate-limiting SDK & infrastructure.
+  > Published `@throttlr/sdk` on npm[cite: 2]. Zero-dependency middleware enforcing Fixed & Sliding Window algorithms safely via Redis
 
-* **[LynxDraw](https://github.com/Jejurkar-Yash/LynxDraw)** — Real-time collaborative canvas[cite: 2].
-  > Load-tested with 100 concurrent WebSocket nodes synchronized over Redis Pub/Sub maintaining a 110ms p95 response time[cite: 2].
+* **[LynxDraw](https://lynx-draw-frontend.onrender.com/) — Real-time collaborative canvas
+  > Load-tested with 100 concurrent WebSocket nodes synchronized over Redis Pub/Sub maintaining a 110ms p95 response time
 
-* **[LogFix](https://github.com/Jejurkar-Yash)** — Automated log analyzer built for *2Fast2MCP '26*[cite: 2].
-  > Intercepts Render service errors to push instant patches directly to Slack[cite: 2].
+* **[LogFix](https://github.com/JejurkarYash/ai-sre-agent)** — Automated log analyzer built for *2Fast2MCP '26'
+  > Intercepts Render service errors to push instant patches directly to Slack
 
 ---
 
-### 🛠️ Core Engineering Stack
+###  Core Engineering Stack
 
 <div align="center">
 
@@ -33,13 +31,13 @@
 
 </div>
 
-* **Languages:** Go, TypeScript, JavaScript, SQL, Python[cite: 2]
-* **Systems & Backend:** Goroutines/Channels, WebSockets, SSE, Reverse Proxies, Rate Limiting, REST[cite: 2]
-* **Data & Infrastructure:** PostgreSQL, Redis (Lua/PubSub), sqlc, Goose, Turborepo, Vercel, Render[cite: 2]
+* **Languages:** Go, TypeScript, JavaScript, SQL, Python
+* **Systems & Backend:** Goroutines/Channels, WebSockets, SSE, Reverse Proxies, Rate Limiting, REST
+* **Data & Infrastructure:** PostgreSQL, Redis (Lua/PubSub), sqlc, Goose, Turborepo, Vercel, Render
 
 ---
 
-### 📬 Connect
+###  Connect
 
 <div align="center">
 
