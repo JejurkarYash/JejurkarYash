@@ -1,9 +1,9 @@
 <div align="center">
 
-# Yash Jejurkar
-### **Backend & Systems Engineer**
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/wave.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 12px;" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="160px" style="object-fit: cover; border-radius: 8px;" />
+# Yash Jejurkar
+<span style="color: #8b949e; font-size: 1.1em; font-weight: 500;">Backend & Systems Engineer</span>
 
 </div>
 
