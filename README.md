@@ -3,7 +3,7 @@
 ### Backend Systems Engineer & Distributed Architecture Builder
 *Crafting high-throughput Go services, real-time distributed pipelines, and resilient cloud infrastructure.*
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JejurkarYash&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
