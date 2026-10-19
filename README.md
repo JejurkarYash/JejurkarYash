@@ -1,33 +1,40 @@
-<div align="center">
+### About me
 
-### Backend Systems Engineer & Distributed Architecture Builder
-*Crafting high-throughput Go services, real-time distributed pipelines, and resilient cloud infrastructure.*
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=JejurkarYash&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+* 🛠️ Systems & Backend Engineer primarily focusing on **Go**, **TypeScript**, and **Distributed Systems**. I specialize in building low-latency APIs, rate limiters, reverse proxies, and concurrent worker pipelines.
+* ⚡ Freelance Software Engineer building production backend infrastructure, PostgreSQL schemas, and real-time tracking engines for digital agencies.
+* 🚀 Built **Setu**, a high-throughput Go LLM proxy benchmarked at **5,170 req/s** with a **2.88ms p95 latency** under peak load.
+* 🏆 Hackathon builder — created **LogFix** (automated Render-to-Slack log debugging) at 2Fast2MCP '26[cite: 2].
 
 ---
 
-### ⚡ System Status
-* **Primary Stack:** Go, TypeScript, Node.js, PostgreSQL, Redis
-* **Current Obsession:** Cloud native deployment pipelines, containerization, and low-latency proxy architectures
-* **Exploring:** Advanced DevOps tooling and Kubernetes orchestration
+### Products & Systems (Open Source)
 
-### 🛠️ Core Engineering Toolkit
-* **Languages:** Go, TypeScript, JavaScript, SQL
-* **Data & Caching:** PostgreSQL, Redis (Lua Scripting, Pub/Sub), sqlc, Goose
-* **Architecture & Networking:** REST, WebSockets, SSE, gRPC, Asynchronous Worker Pools
-* **Infrastructure & DevOps:** Docker, Linux, CI/CD pipelines
+* **[Setu](https://github.com/Jejurkar-Yash/Setu)** — A high-performance Golang LLM Proxy Gateway built with Go, Redis, and PostgreSQL[cite: 2].
+  * Benchmarked across 1.55M+ requests (sustaining 5,170 req/s peak load at 2.88ms p95 latency) with 0% failure rate[cite: 2].
+  * Built an async telemetry pipeline using goroutine worker pools to prevent blocking heavy SSE streams[cite: 2].
+  * Uses atomic Redis Lua scripts for instant budget tracking and AES-256-GCM for credential security[cite: 2].
 
-### 🚀 Flagship Systems
-* **Setu** — High-performance LLM proxy gateway built in Go featuring AES-256-GCM credential encryption, rate limiting, and asynchronous database logging via goroutine worker pools.
-* **Throttlr** — npm-published atomic rate-limiter SDK leveraging Redis Lua scripts for high-concurrency safety.
-* **LynxDraw** — Real-time collaborative digital canvas powered by WebSockets and low-latency PubSub messaging.
+* **[Throttlr](https://throttlr.yashjejurkar.me/)** — Distributed Rate Limiting SDK and Infrastructure Platform[cite: 2].
+  * Published `@throttlr/sdk` on npm for zero-dependency single-line backend middleware integration[cite: 2].
+  * Implemented Fixed & Sliding Window algorithms via atomic Redis Lua scripts to eliminate race conditions under high concurrency[cite: 2].
+  * Built normalized PostgreSQL schemas with indexed analytics queries[cite: 2].
+
+* **[LynxDraw](https://lynx-draw-frontend.onrender.com/)** — Real-time collaborative engine built on WebSockets & Redis Pub/Sub[cite: 2].
+  * Load-tested with 100 concurrent WebSocket connections maintaining a 110ms p95 synchronization response time[cite: 2].
+  * Synchronized distributed client states across server nodes using Redis Pub/Sub messaging[cite: 2].
+  * Structured as a Turborepo monorepo with shared TypeScript contracts[cite: 2].
+
+* **[LogFix](https://github.com/JejurkarYash/ai-sre-agent)** — Automated log analyzer built for 2Fast2MCP 2026 that intercepts Render service logs and pushes automated bug fixes directly to Slack[cite: 2].
 
 ---
 
-### 📊 GitHub Metrics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?user=JejurkarYash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</div>
+### Technical Stack
+
+* **Languages:** Go (Golang), TypeScript, JavaScript, SQL, Python[cite: 2]
+* **Backend & Systems:** Concurrency (Goroutines/Channels), REST, WebSockets, SSE, Reverse Proxies, Rate Limiting, Microservices[cite: 2]
+* **Databases & Caching:** PostgreSQL, Redis (Lua Scripts & Pub/Sub), MongoDB, sqlc, Goose, Prisma[cite: 2]
+* **Tools & Infrastructure:** Docker, Linux, Turborepo, Git, Postman, Vercel, Render[cite: 2]
+
+---
+
+📫 **Get in touch:** `yashjejurkar.dev@gmail.com` | [Twitter/X](https://x.com/YashJejurkar) | [LinkedIn](https://linkedin.com/in/yash-jejurkar)[cite: 2]
