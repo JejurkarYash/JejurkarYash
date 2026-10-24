@@ -6,7 +6,7 @@
 
 ### Products/projects (open source) :
 
-- **[Setu](https://github.com/Jejurkar-Yash/Setu)** : A high-throughput Golang LLM Proxy Gateway that processes **5,170 req/s** at **2.88ms p95 latency** (1.55M+ requests, 0% failure) using goroutine worker pools and atomic Redis Lua scripts.
+- **[Setu](https://github.com/Jejurkar-Yash/setu)** : A high-throughput Golang LLM Proxy Gateway that processes **5,170 req/s** at **2.88ms p95 latency** (1.55M+ requests, 0% failure) using goroutine worker pools and atomic Redis Lua scripts.
 - **[Throttlr](throttlr.yashjejurkar.me)** : A distributed rate-limiting platform and `@throttlr/sdk` on npm for zero-dependency middleware enforcing Fixed/Sliding Window concurrency via Redis.
 - **[LynxDraw](https://github.com/Jejurkar-Yash/LynxDraw)** : A real-time collaborative canvas handling concurrent WebSocket nodes synchronized over Redis Pub/Sub maintaining a **110ms p95** response time.
 - **[LogFix](https://github.com/JejurkarYash/ai-sre-agent)** : An automated log analyzer that intercepts Render service errors and pushes instant patches directly to Slack.
